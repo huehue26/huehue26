@@ -9,7 +9,7 @@
 
 
 
-<a href="https://sansyrox.github.io">
+<a href="https://someshsingh2620.github.io/My-Portfolio/">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=someshsingh2620&column=7&theme=onedark"/>
     </p>
