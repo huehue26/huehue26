@@ -5,27 +5,19 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </a>
-    
-
-
 
 <a href="https://huehue26.github.io/My-Portfolio/">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=huehue26&column=7&theme=onedark"/>
     </p>
 </a>
-<!-- My GitHub stats with buefy theme ❤️ -->
+
 <a align="center" href="https://huehue26.github.io">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huehue26&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huehue26&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=huehue26&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huehue26&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
 </a>
-
-
-    
-
-
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
